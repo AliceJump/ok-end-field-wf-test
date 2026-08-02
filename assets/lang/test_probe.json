@@ -66,5 +66,33 @@
     "es_ES": {
       "string": "Caja de almacenamiento III"
     }
+  },
+  "k_fullwidth_zh": {
+    "zh_CN": {
+      "string": "储藏箱Ⅳ"
+    },
+    "zh_TW": {
+      "string": "儲藏箱IV"
+    },
+    "en_US": {
+      "string": "Storage Crate IV"
+    },
+    "ja_JP": {
+      "string": "資源箱Ⅳ"
+    },
+    "ko_KR": {
+      "string": "보물 상자 IV"
+    },
+    "es_ES": {
+      "string": "Caja de almacenamiento IV"
+    }
+  },
+  "k_wiki_ru": {
+    "zh_CN": {
+      "string": "佩丽卡"
+    },
+    "ru_RU": {
+      "string": "WRONG_RU"
+    }
   }
 }
