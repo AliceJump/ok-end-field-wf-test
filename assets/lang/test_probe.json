@@ -4,16 +4,16 @@
       "string": "储藏箱I"
     },
     "en_US": {
-      "string": "PLACEHOLDER"
+      "string": "Storage Crate I"
     },
     "ja_JP": {
-      "string": "PLACEHOLDER"
+      "string": "資源箱Ⅰ"
     },
     "ko_KR": {
-      "string": "PLACEHOLDER"
+      "string": "보물 상자 I"
     },
     "es_ES": {
-      "string": "PLACEHOLDER"
+      "string": "Caja de almacenamiento I"
     }
   },
   "k_known_zh_only": {
@@ -34,7 +34,7 @@
       "string": "储藏箱III"
     },
     "en_US": {
-      "string": "PLACEHOLDER"
+      "string": "Storage Crate III"
     }
   }
 }
