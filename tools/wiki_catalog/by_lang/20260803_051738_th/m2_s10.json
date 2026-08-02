@@ -1,0 +1,1 @@
+{"code":0, "message":"OK", "timestamp":"1785705649", "data":{"catalog":[{"id":"2", "name":"คู่มือเกม", "status":2, "position":2, "typeSub":[{"id":"10", "name":"คู่มือโอเปอเรเตอร์", "fatherTypeId":"2", "style":5, "status":2, "position":11, "icon":"", "items":[], "filterTagTree":[]}]}]}}

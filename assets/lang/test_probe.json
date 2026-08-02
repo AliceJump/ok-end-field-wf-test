@@ -106,5 +106,25 @@
     "ko_KR": {
       "string": "펠리카"
     }
+  },
+  "k_priority": {
+    "zh_CN": {
+      "string": "酸液源石虫·α"
+    },
+    "en_US": {
+      "string": "Acid Originium Slug α"
+    },
+    "zh_TW": {
+      "string": "酸液源石蟲·α"
+    },
+    "ja_JP": {
+      "string": "酸液オリジムシα"
+    },
+    "ko_KR": {
+      "string": "산성원석충 · α"
+    },
+    "es_ES": {
+      "string": "Babosa de Originio ácida α"
+    }
   }
 }

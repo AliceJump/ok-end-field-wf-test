@@ -1,0 +1,1 @@
+{"code":0, "message":"OK", "timestamp":"1785705595", "data":{"catalog":[{"id":"2", "name":"게임 공략 모음", "status":2, "position":2, "typeSub":[{"id":"9", "name":"신입 입문", "fatherTypeId":"2", "style":5, "status":2, "position":12, "icon":"", "items":[], "filterTagTree":[]}]}]}}
