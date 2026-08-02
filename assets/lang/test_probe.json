@@ -1,0 +1,40 @@
+{
+  "k_known_with_langs": {
+    "zh_CN": {
+      "string": "储藏箱I"
+    },
+    "en_US": {
+      "string": "PLACEHOLDER"
+    },
+    "ja_JP": {
+      "string": "PLACEHOLDER"
+    },
+    "ko_KR": {
+      "string": "PLACEHOLDER"
+    },
+    "es_ES": {
+      "string": "PLACEHOLDER"
+    }
+  },
+  "k_known_zh_only": {
+    "zh_CN": {
+      "string": "储藏箱II"
+    }
+  },
+  "k_unknown": {
+    "zh_CN": {
+      "string": "完全未知的名称测试"
+    },
+    "en_US": {
+      "string": "PLACEHOLDER"
+    }
+  },
+  "EnglishKey123": {
+    "zh_CN": {
+      "string": "储藏箱III"
+    },
+    "en_US": {
+      "string": "PLACEHOLDER"
+    }
+  }
+}
