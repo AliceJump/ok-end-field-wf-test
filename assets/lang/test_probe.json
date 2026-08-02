@@ -14,11 +14,29 @@
     },
     "es_ES": {
       "string": "Caja de almacenamiento I"
+    },
+    "zh_TW": {
+      "string": "儲藏箱I"
     }
   },
   "k_known_zh_only": {
     "zh_CN": {
       "string": "储藏箱II"
+    },
+    "zh_TW": {
+      "string": "儲藏箱II"
+    },
+    "en_US": {
+      "string": "Storage Crate II"
+    },
+    "ja_JP": {
+      "string": "資源箱Ⅱ"
+    },
+    "ko_KR": {
+      "string": "보물 상자 II"
+    },
+    "es_ES": {
+      "string": "Caja de almacenamiento II"
     }
   },
   "k_unknown": {
@@ -35,6 +53,18 @@
     },
     "en_US": {
       "string": "Storage Crate III"
+    },
+    "zh_TW": {
+      "string": "儲藏箱III"
+    },
+    "ja_JP": {
+      "string": "資源箱Ⅲ"
+    },
+    "ko_KR": {
+      "string": "보물 상자 III"
+    },
+    "es_ES": {
+      "string": "Caja de almacenamiento III"
     }
   }
 }
