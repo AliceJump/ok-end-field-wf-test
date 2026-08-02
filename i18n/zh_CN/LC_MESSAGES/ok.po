@@ -1329,7 +1329,7 @@ msgid "保持当前"
 msgstr "保持当前"
 
 msgid "储藏箱I"
-msgstr "储藏箱I"
+msgstr "错误名称"
 
 msgid "储藏箱II"
 msgstr "储藏箱II"

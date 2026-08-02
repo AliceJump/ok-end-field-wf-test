@@ -1,24 +1,4 @@
 {
-  "zhuang_fang_yi": {
-    "zh_CN": {
-      "string": "庄方宜"
-    },
-    "zh_TW": {
-      "string": "莊方宜"
-    },
-    "en_US": {
-      "string": "Zhuang Fangyi"
-    },
-    "ja_JP": {
-      "string": "ゾアン・ファンイ"
-    },
-    "ko_KR": {
-      "string": "장방이"
-    },
-    "es_ES": {
-      "string": "Zhuang Fangyi"
-    }
-  },
   "luo_qian": {
     "zh_CN": {
       "string": "洛茜"
