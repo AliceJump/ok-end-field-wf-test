@@ -93,6 +93,18 @@
     },
     "ru_RU": {
       "string": "WRONG_RU"
+    },
+    "zh_TW": {
+      "string": "佩麗卡"
+    },
+    "en_US": {
+      "string": "Perlica"
+    },
+    "ja_JP": {
+      "string": "ペリカ"
+    },
+    "ko_KR": {
+      "string": "펠리카"
     }
   }
 }
