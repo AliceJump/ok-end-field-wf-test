@@ -5172,3 +5172,9 @@ msgstr "灯火使命"
 
 msgid "诀的信物"
 msgstr "诀的信物"
+
+msgid "通用液体盛装"
+msgstr "通用液体盛装"
+
+msgid "通用液体倾倒"
+msgstr "通用液体倾倒"

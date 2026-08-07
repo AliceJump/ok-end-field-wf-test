@@ -5693,3 +5693,9 @@ msgstr "Operator Story [Chen Qianyu: The Swordbearer]"
 
 msgid "开服贺图"
 msgstr "Launch Celebration Artwork"
+
+msgid "通用液体倾倒"
+msgstr "General Fluid Separation"
+
+msgid "通用液体盛装"
+msgstr "General Fluid Filling"

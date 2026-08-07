@@ -5857,3 +5857,9 @@ msgstr "卡池規則詳解"
 
 msgid "开服配队推荐"
 msgstr "開服配隊推薦"
+
+msgid "通用液体倾倒"
+msgstr "通用液體傾倒"
+
+msgid "通用液体盛装"
+msgstr "通用液體盛裝"

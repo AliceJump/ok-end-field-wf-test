@@ -5850,3 +5850,9 @@ msgstr "자수정 병"
 
 msgid "紫晶纤维"
 msgstr "자수정 섬유"
+
+msgid "通用液体倾倒"
+msgstr "범용 액체 붓기"
+
+msgid "通用液体盛装"
+msgstr "범용 액체 담기"
