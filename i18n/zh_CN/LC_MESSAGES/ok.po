@@ -5178,3 +5178,6 @@ msgstr "通用液体盛装"
 
 msgid "通用液体倾倒"
 msgstr "通用液体倾倒"
+
+msgid "根脉奇境"
+msgstr "根脉奇境"

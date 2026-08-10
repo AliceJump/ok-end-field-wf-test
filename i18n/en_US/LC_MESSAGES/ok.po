@@ -5699,3 +5699,12 @@ msgstr "General Fluid Separation"
 
 msgid "通用液体盛装"
 msgstr "General Fluid Filling"
+
+msgid "根脉奇境"
+msgstr "The Rooted Realm"
+
+msgid "曜夜的首演"
+msgstr "Bedazzling Night Debut"
+
+msgid "【干员攻略】梨诺"
+msgstr "[Operator Guide] Liino"

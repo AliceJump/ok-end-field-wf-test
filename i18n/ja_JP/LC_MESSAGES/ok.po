@@ -5277,3 +5277,39 @@ msgstr "サービス開始記念イラスト"
 
 msgid "联结点"
 msgstr "連結点"
+
+msgid "根脉奇境"
+msgstr "根脈奇景"
+
+msgid "诀的信物"
+msgstr "オクギの印"
+
+msgid "二色环流灯"
+msgstr "二色環流ライト"
+
+msgid "武陵塔晶探针"
+msgstr "武陵タロサイト探査機"
+
+msgid "ID资讯更新卡"
+msgstr "ID情報更新カード"
+
+msgid "桂花米糕"
+msgstr "キンモクセイのミーガオ"
+
+msgid "手工星星糖"
+msgstr "お手製のキラキラキャンディ"
+
+msgid "第一年的生日蛋糕"
+msgstr "1年目の誕生日ケーキ"
+
+msgid "踞渊北眺寻访凭证"
+msgstr "「臨淵北望」スカウト券"
+
+msgid "生机盆景"
+msgstr "生命力の盆栽"
+
+msgid "谷地多痕刻写箱"
+msgstr "谷地・多軌道刻印ボックス"
+
+msgid "黄金时代"
+msgstr "黄金時代"

@@ -5863,3 +5863,9 @@ msgstr "通用液體傾倒"
 
 msgid "通用液体盛装"
 msgstr "通用液體盛裝"
+
+msgid "根脉奇境"
+msgstr "根脈奇境"
+
+msgid "【干员攻略】梨诺"
+msgstr "【幹員攻略】梨諾"
