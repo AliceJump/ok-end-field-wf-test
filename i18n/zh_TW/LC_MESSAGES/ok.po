@@ -5869,3 +5869,12 @@ msgstr "根脈奇境"
 
 msgid "【干员攻略】梨诺"
 msgstr "【幹員攻略】梨諾"
+
+msgid "梨诺EP -“Mirairo Rider”"
+msgstr "梨諾EP -「Mirairo Rider」"
+
+msgid "干员叙事 “梨诺：心与星的焦点”"
+msgstr "幹員敘事 「梨諾：心與星的焦點」"
+
+msgid "相伴庆典&核心章节“向渊行”版本更新情报"
+msgstr "相伴慶典&核心章節「向淵行」版本更新情報"

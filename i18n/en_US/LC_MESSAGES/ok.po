@@ -5708,3 +5708,13 @@ msgstr "Bedazzling Night Debut"
 
 msgid "【干员攻略】梨诺"
 msgstr "[Operator Guide] Liino"
+
+msgid "梨诺EP -“Mirairo Rider”"
+msgstr "EP - Liino [Mirairo Rider]"
+
+msgid "干员叙事 “梨诺：心与星的焦点”"
+msgstr "Operator Story [Liino: The Focus of Heart and Star]"
+
+msgid "相伴庆典&核心章节“向渊行”版本更新情报"
+msgstr ""
+"Companionship Celebration & Core Chapter [Homecoming] Version Update Info"
