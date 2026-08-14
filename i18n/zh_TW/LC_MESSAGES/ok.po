@@ -5878,3 +5878,24 @@ msgstr "幹員敘事 「梨諾：心與星的焦點」"
 
 msgid "相伴庆典&核心章节“向渊行”版本更新情报"
 msgstr "相伴慶典&核心章節「向淵行」版本更新情報"
+
+msgid "铁痕电台#02 | 神奇收音机"
+msgstr "鐵痕電台#02 | 神奇收音機"
+
+msgid "“寻遗散记”版本PV"
+msgstr "「尋遺散記」版本PV"
+
+msgid "核心章节“春晓时”版本更新情报"
+msgstr "核心章節「春曉時」版本更新情報"
+
+msgid "核心章节“春晓时”版本PV"
+msgstr "核心章節「春曉時」版本PV"
+
+msgid "“新潮起，故渊离”版本PV"
+msgstr "「新潮起，故淵離」版本PV"
+
+msgid "启程PV“使命”"
+msgstr "啟程PV「使命」"
+
+msgid "公测PV：Back to Endfield"
+msgstr "公測PV：Back to Endfield"

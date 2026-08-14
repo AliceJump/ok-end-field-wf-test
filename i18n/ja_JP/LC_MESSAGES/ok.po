@@ -5319,3 +5319,15 @@ msgstr "[オペレーターガイド] リーノ"
 
 msgid "曜夜的首演"
 msgstr "プリズムナイトデビュー"
+
+msgid "遥望"
+msgstr "ファーサイト"
+
+msgid "震撼美味！"
+msgstr "震撼美味！"
+
+msgid "小咆兽活动架"
+msgstr "子咆獣用タワー"
+
+msgid "猩红记忆"
+msgstr "緋色の記憶"
