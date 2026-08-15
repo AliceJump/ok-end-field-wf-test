@@ -5331,3 +5331,6 @@ msgstr "子咆獣用タワー"
 
 msgid "猩红记忆"
 msgstr "緋色の記憶"
+
+msgid "通用种植生产"
+msgstr "汎用栽培生産"
