@@ -5874,3 +5874,24 @@ msgstr "오퍼레이터 스토리 [리노: 마음과 별이 만나는 곳]"
 
 msgid "相伴庆典&核心章节“向渊行”版本更新情报"
 msgstr "인연의 축제 & 메인 챕터 「심연으로」 버전 업데이트 정보"
+
+msgid "铁痕电台#02 | 神奇收音机"
+msgstr "메탈 스카 라디오 #02 | 신비한 라디오"
+
+msgid "“寻遗散记”版本PV"
+msgstr "「과거를 찾아서」 버전 PV"
+
+msgid "核心章节“春晓时”版本更新情报"
+msgstr "메인 챕터 「봄날의 새벽」 버전 업데이트 정보"
+
+msgid "核心章节“春晓时”版本PV"
+msgstr "메인 챕터 「봄날의 새벽」 버전 PV"
+
+msgid "“新潮起，故渊离”版本PV"
+msgstr "「몰아치는 새로운 물결, 과거와의 작별」 버전 PV"
+
+msgid "启程PV“使命”"
+msgstr "여정의 시작 PV 「사명」"
+
+msgid "公测PV：Back to Endfield"
+msgstr "정식 출시 PV - Back to Endfield"

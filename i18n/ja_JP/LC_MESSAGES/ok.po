@@ -5334,3 +5334,15 @@ msgstr "緋色の記憶"
 
 msgid "通用种植生产"
 msgstr "汎用栽培生産"
+
+msgid "梨诺EP -“Mirairo Rider”"
+msgstr "リーノEP - 『Mirairo Rider』"
+
+msgid "干员叙事 “梨诺：心与星的焦点”"
+msgstr "オペレーターファイル [リーノ：心と星の焦点]"
+
+msgid "相伴庆典&核心章节“向渊行”版本更新情报"
+msgstr "絆の祝典&コアバージョン「向淵行」更新情報"
+
+msgid "铁痕电台#02 | 神奇收音机"
+msgstr "メタルスカーラジオ#02|不思議なラジオ"
