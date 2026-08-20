@@ -5895,3 +5895,6 @@ msgstr "여정의 시작 PV 「사명」"
 
 msgid "公测PV：Back to Endfield"
 msgstr "정식 출시 PV - Back to Endfield"
+
+msgid "【干员攻略】诀"
+msgstr "【오퍼레이터 공략】 결"
