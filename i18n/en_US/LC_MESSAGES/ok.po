@@ -5718,3 +5718,24 @@ msgstr "Operator Story [Liino: The Focus of Heart and Star]"
 msgid "相伴庆典&核心章节“向渊行”版本更新情报"
 msgstr ""
 "Companionship Celebration & Core Chapter [Homecoming] Version Update Info"
+
+msgid "铁痕电台#02 | 神奇收音机"
+msgstr "Metal Scar Radio #02 | The Magic Radio"
+
+msgid "“寻遗散记”版本PV"
+msgstr "[Sketches of Lost Heirlooms] Version Trailer"
+
+msgid "核心章节“春晓时”版本更新情报"
+msgstr "Core Chapter [At the Wake of Spring] Version Update Info"
+
+msgid "核心章节“春晓时”版本PV"
+msgstr "Core Chapter [At the Wake of Spring] Version Trailer"
+
+msgid "“新潮起，故渊离”版本PV"
+msgstr "[Old Deep Water Dies, by Rising Tide It is Denied] Version Trailer"
+
+msgid "启程PV“使命”"
+msgstr "New Horizons Trailer [The Mission]"
+
+msgid "公测PV：Back to Endfield"
+msgstr "Official Release Trailer: Back to Endfield"
