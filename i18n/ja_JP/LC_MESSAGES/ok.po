@@ -5376,3 +5376,18 @@ msgstr "汎用植物エキス"
 
 msgid "通用液体盛装"
 msgstr "汎用液体充填"
+
+msgid "噗切娜"
+msgstr "プチエナ"
+
+msgid "提弗洛斯"
+msgstr "ティフォロス"
+
+msgid "洛西"
+msgstr "ロッシ"
+
+msgid "管理员(男)"
+msgstr "管理人（男）"
+
+msgid "管理员(女)"
+msgstr "管理人（女）"

@@ -5898,3 +5898,12 @@ msgstr "정식 출시 PV - Back to Endfield"
 
 msgid "【干员攻略】诀"
 msgstr "【오퍼레이터 공략】 결"
+
+msgid "洛西"
+msgstr "로시"
+
+msgid "管理员(男)"
+msgstr "관리자(남)"
+
+msgid "管理员(女)"
+msgstr "관리자(여)"

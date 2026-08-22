@@ -859,5 +859,45 @@
     "th_TH": {
       "string": "จวงฟางอี้"
     }
+  },
+  "|tcname =": {
+    "zh_CN": {
+      "string": "|tcname ="
+    },
+    "zh_TW": {
+      "string": "|jpname = プチエナ"
+    },
+    "en_US": {
+      "string": "Purrchena"
+    },
+    "ja_JP": {
+      "string": "プチエナ"
+    },
+    "ko_KR": {
+      "string": "푸치나"
+    },
+    "es_ES": {
+      "string": "|runame ="
+    }
+  },
+  "ti_fu_luo_si": {
+    "zh_CN": {
+      "string": "提弗洛斯"
+    },
+    "zh_TW": {
+      "string": "提弗洛斯"
+    },
+    "en_US": {
+      "string": "Typhoeus"
+    },
+    "ja_JP": {
+      "string": "ティフォロス"
+    },
+    "ko_KR": {
+      "string": "티프로스"
+    },
+    "es_ES": {
+      "string": "|runame = Тифея"
+    }
   }
 }

@@ -5899,3 +5899,27 @@ msgstr "啟程PV「使命」"
 
 msgid "公测PV：Back to Endfield"
 msgstr "公測PV：Back to Endfield"
+
+msgid "噗切娜"
+msgstr "噗切娜"
+
+msgid "提弗洛斯"
+msgstr "提弗洛斯"
+
+msgid "洛西"
+msgstr "洛西"
+
+msgid "管理员(男)"
+msgstr "管理員(男)"
+
+msgid "管理员(女)"
+msgstr "管理員(女)"
+
+msgid "点心时刻"
+msgstr "點心時刻"
+
+msgid "寒夜幽影"
+msgstr "寒夜幽影"
+
+msgid "苦难的尽头"
+msgstr "苦難的盡頭"

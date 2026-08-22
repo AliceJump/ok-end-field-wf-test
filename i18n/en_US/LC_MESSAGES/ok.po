@@ -5739,3 +5739,18 @@ msgstr "New Horizons Trailer [The Mission]"
 
 msgid "公测PV：Back to Endfield"
 msgstr "Official Release Trailer: Back to Endfield"
+
+msgid "噗切娜"
+msgstr "Purrchena"
+
+msgid "提弗洛斯"
+msgstr "Typhoeus"
+
+msgid "洛西"
+msgstr "Rossi"
+
+msgid "管理员(男)"
+msgstr "Endministrator (M)"
+
+msgid "管理员(女)"
+msgstr "Endministrator (F)"
